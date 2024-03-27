@@ -1,0 +1,20 @@
+What You're Aiming For
+
+Vous décidez de vous inscrire dans une grande chaîne de salles de sport. A votre arrivée, vous vous rendez à la réception. Vous trouvez le propriétaire en train de discuter avec un membre qui veut assister à une séance à laquelle il n'est pas inscrit. Votre tour arrive enfin, le propriétaire s'excuse de vous avoir fait attendre si longtemps. Il vous explique que son employé, chargé des inscriptions, s'est trompé dans le choix de la séance de l'adhérent.
+
+Vous êtes surpris qu'un gymnase aussi reconnu utilise encore les cartes pour gérer son grand nombre de clients. Vous vous adressez donc au propriétaire pour régler ce problème. Intéressé par vos connaissances, il vous demande de lui trouver une solution, en échange il vous offrira une inscription gratuite de 3 mois.  
+
+Le propriétaire vous informe que :
+
+il possède plusieurs gymnases qui se distinguent par leur nom, leur adresse et leur numéro de téléphone.
+
+Les membres peuvent s'inscrire dans l'un de ces gymnases, ils doivent donc fournir les informations suivantes : identifiant unique, nom, prénom, adresse, date de naissance et sexe.
+
+Chaque session est caractérisée par un type de sport et un horaire et peut accueillir un maximum de 20 membres.
+
+Les sessions sont dirigées par deux entraîneurs au maximum qui ont un nom, un prénom, un âge et une spécialité.
+
+
+Instructions
+
+Compte tenu du texte susmentionné, essayez de créer le modèle de relation d'entité correspondant.
